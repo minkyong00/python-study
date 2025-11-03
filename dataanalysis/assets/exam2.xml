@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <name>홍길동</name>
+    <kor>90</kor>
+    <eng>100</eng>
+    <math>60</math>
+  </row>
+  <row>
+    <name>강감찬</name>
+    <kor>80</kor>
+    <eng>90</eng>
+    <math>50</math>
+  </row>
+  <row>
+    <name>이순신</name>
+    <kor>70</kor>
+    <eng>80</eng>
+    <math>40</math>
+  </row>
+</data>
